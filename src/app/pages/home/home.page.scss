@@ -1,8 +1,15 @@
+ion-grid {
+  max-width: 365px;
+  height: 87%;
+  display: flex;
+  align-items: center;
+}
+
 ion-img {
   margin: 0 auto;
-  max-width: 500px;
-  position: fixed;
-  left: 0;
-  right: 0;
-  top: 30%;
+  max-width: 360px;
+}
+
+.button-native {
+  border-radius: 10px !important;
 }
